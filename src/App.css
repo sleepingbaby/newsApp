@@ -1,0 +1,28 @@
+#news-card {
+  margin: 8px;
+  box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
+    rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+  min-width: 50%;
+}
+
+#card-img {
+  border-bottom: 1px solid black;
+}
+
+#navbar {
+  background-color: #333438;
+}
+
+#button {
+  color: white;
+  border-color: white;
+}
+
+#button:hover {
+  color: #333438;
+  background-color: white;
+}
+
+#search-submit {
+  width: 50%;
+}
